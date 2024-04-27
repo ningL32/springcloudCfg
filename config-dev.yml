@@ -4,3 +4,5 @@ server:
     blog: 8999
     ems: 9999
     hello: 8899
+config:
+  info: "master branch version v1"
