@@ -1,3 +1,4 @@
 # dev 环境配置
 config:
-  info: "master branch version v4"
+  info: "master branch version v5"
+  word: "hi"
